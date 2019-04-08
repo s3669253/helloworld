@@ -39,3 +39,8 @@ Git Hub 공부 연습
 
 ##Conflict
 -I love to solve conflicts. 
+
+#일부러 만들어낸 충돌입니다!!
+- 하하하하하
+
+
