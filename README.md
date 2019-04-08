@@ -37,3 +37,5 @@ Git Hub 공부 연습
 ## 충돌해결하기
 - 제일 중요한 점: 겁내지 말아요
 
+##Conflict
+-I love to solve conflicts. 
